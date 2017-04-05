@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace OICatalog3
+{
+    class Project
+    {
+        public int Id;
+        public string Name;
+        public string Description;
+        public string participant;
+        public Participant Participant;
+        public int Category;
+    }
+}
