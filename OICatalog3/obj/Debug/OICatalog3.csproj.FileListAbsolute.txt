@@ -1,0 +1,90 @@
+c:\users\givy1\documents\visual studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe.config
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\OICatalog3.pdb
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csprojResolveAssemblyReference.cache
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Form1.resources
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Properties.Resources.resources
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csproj.GenerateResource.Cache
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\obj\Debug\OICatalog3.exe
+c:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\obj\Debug\OICatalog3.pdb
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\EntityFramework.dll
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.dll
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\EntityFramework.xml
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\givy1\Documents\Visual Studio 2015\Projects\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.xml
+V:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe.config
+V:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.exe
+V:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.pdb
+V:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe
+V:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.pdb
+V:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.dll
+V:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.dll
+V:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.dll
+V:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.EF6.dll
+V:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.Linq.dll
+V:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.xml
+V:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.xml
+V:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.xml
+V:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csprojResolveAssemblyReference.cache
+V:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Form1.resources
+V:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Properties.Resources.resources
+V:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csproj.GenerateResource.Cache
+E:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe.config
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.exe
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.pdb
+E:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe
+E:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.pdb
+E:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.dll
+E:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.dll
+E:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.dll
+E:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.EF6.dll
+E:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.Linq.dll
+E:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.xml
+E:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.xml
+E:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.xml
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csprojResolveAssemblyReference.cache
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Form1.resources
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Properties.Resources.resources
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csproj.GenerateResource.Cache
+G:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe.config
+G:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.exe
+G:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.pdb
+G:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe
+G:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.pdb
+G:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.dll
+G:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.dll
+G:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.dll
+G:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.EF6.dll
+G:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.Linq.dll
+G:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.xml
+G:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.xml
+G:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.xml
+G:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csprojResolveAssemblyReference.cache
+G:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Form1.resources
+G:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Properties.Resources.resources
+G:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csproj.GenerateResource.Cache
+D:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe.config
+D:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.exe
+D:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.pdb
+D:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.exe
+D:\OICatalog3\OICatalog3\bin\Debug\OICatalog3.pdb
+D:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.dll
+D:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.dll
+D:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.dll
+D:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.EF6.dll
+D:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.Linq.dll
+D:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.xml
+D:\OICatalog3\OICatalog3\bin\Debug\EntityFramework.SqlServer.xml
+D:\OICatalog3\OICatalog3\bin\Debug\System.Data.SQLite.xml
+D:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csprojResolveAssemblyReference.cache
+D:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Form1.resources
+D:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.Properties.Resources.resources
+D:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csproj.GenerateResource.Cache
+E:\OICatalog3\OICatalog3\bin\Debug\Interop.WMPLib.dll
+E:\OICatalog3\OICatalog3\bin\Debug\AxInterop.WMPLib.dll
+E:\OICatalog3\OICatalog3\obj\Debug\Interop.WMPLib.dll
+E:\OICatalog3\OICatalog3\obj\Debug\AxInterop.WMPLib.dll
+E:\OICatalog3\OICatalog3\obj\Debug\OICatalog3.csproj.ResolveComReference.cache
